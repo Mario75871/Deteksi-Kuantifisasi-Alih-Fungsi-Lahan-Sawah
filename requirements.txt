@@ -1,0 +1,14 @@
+rasterio
+numpy
+scipy
+geopandas
+shapely
+matplotlib
+folium
+opencv-python-headless
+openeo
+requests
+mercantile
+Pillow
+streamlit
+streamlit-folium
