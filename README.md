@@ -1,1 +1,1 @@
-# Deteksi-Kuantisasi-Alih-Fungsi-Lahan-Sawah
+# Deteksi-Kuantifisasi-Alih-Fungsi-Lahan-Sawah
